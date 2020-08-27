@@ -348,3 +348,22 @@ a {
   background-color: #f08a5d;
   border-color: #f08a5d;
 }
+
+footer {
+  text-align: center;
+}
+.fab {
+  font-size: 1.5rem;
+  color: black;
+  padding: 1.5rem 0.5rem 1rem;
+  transition: ease-in-out 0.5s;
+}
+
+.fab:hover {
+  color: #f08a5d;
+}
+
+.copy {
+  color: #222831;
+  padding-bottom: 1.5rem;
+}
